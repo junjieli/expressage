@@ -1,0 +1,74 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="expressage.sinaapi"
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True" 
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit" Loaded="PhoneApplicationPage_Loaded">
+
+    <!--LayoutRoot 是包含所有页面内容的根网格-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel 包含应用程序的名称和页标题-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="快递猿" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="感谢你们" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - 在此处放置其他内容-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+
+
+            <toolkit:HubTile x:Name="ycHubTile" Height="173" HorizontalAlignment="Left" Margin="12,18,0,0" Title="{Binding Title}" 
+                              Notification="{Binding Notification}"
+                                         DisplayNotification="{Binding DisplayNotification}"  
+                                         Message="{Binding Message}"
+                                         GroupTag="{Binding id}" 
+                                         Source="{Binding ImageUri}"
+                             VerticalAlignment="Top" Width="173" Tap="ycHubTile_Tap" />
+            <toolkit:HubTile x:Name="mzHubTile" Height="173" HorizontalAlignment="Left" Margin="228,18,0,0" Title="{Binding Title}" 
+                              Notification="{Binding Notification}"
+                                         DisplayNotification="{Binding DisplayNotification}"  
+                                         Message="{Binding Message}"
+                                         GroupTag="{Binding id}" 
+                                         Source="{Binding ImageUri}"
+                             VerticalAlignment="Top" Width="173" Tap="mzHubTile_Tap" />
+            <toolkit:HubTile x:Name="hubTile1" DisplayNotification="{Binding DisplayNotification}" 
+                             GroupTag="{Binding id}" Height="173" HorizontalAlignment="Left" 
+                             Margin="12,224,0,0" Message="{Binding Message}"  
+                             Notification="{Binding Notification}" 
+                             Source="{Binding ImageUri}" 
+                             Title="{Binding Title}" 
+                             VerticalAlignment="Top" Width="173" Tap="hubTile1_Tap" />
+            <toolkit:HubTile x:Name="hubTile2" DisplayNotification="{Binding DisplayNotification}" GroupTag="{Binding id}" Height="173" HorizontalAlignment="Left" Margin="228,224,0,0" Message="{Binding Message}"  Notification="{Binding Notification}" Source="{Binding ImageUri}" Title="{Binding Title}" VerticalAlignment="Top" Width="173"  Tap="hubTile2_Tap"/>
+            <toolkit:HubTile x:Name="hubTile3" DisplayNotification="{Binding DisplayNotification}" GroupTag="{Binding id}" Height="173" HorizontalAlignment="Left" Margin="12,428,0,0" Message="{Binding Message}"  Notification="{Binding Notification}" Source="{Binding ImageUri}" Title="{Binding Title}" VerticalAlignment="Top" Width="173" Tap="hubTile3_Tap" />
+            <toolkit:HubTile x:Name="hubTile4" DisplayNotification="{Binding DisplayNotification}" GroupTag="{Binding id}" Height="173" HorizontalAlignment="Left" Margin="228,428,0,0" Message="{Binding Message}"  Notification="{Binding Notification}" Source="{Binding ImageUri}" Title="{Binding Title}" VerticalAlignment="Top" Width="173" Tap="hubTile4_Tap"/>
+        </Grid>
+    </Grid>
+
+    <!--演示 ApplicationBar 用法的示例代码-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="按钮 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="按钮 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="菜单项 1"/>
+                <shell:ApplicationBarMenuItem Text="菜单项 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

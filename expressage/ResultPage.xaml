@@ -1,0 +1,107 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="expressage.ResultPage"
+     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:adduplex="clr-namespace:AdDuplex;assembly=AdDuplex.AdControl.Silverlight"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="696" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True" xmlns:my="clr-namespace:Microsoft.Advertising.Mobile.UI;assembly=Microsoft.Advertising.Mobile.UI" Loaded="PhoneApplicationPage_Loaded">
+
+    <!--LayoutRoot 是放置所有頁面的根資料格-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <!--<ImageBrush ImageSource="/expressage;component/Images/0001_副本1.png" Stretch="Fill" />-->
+            <!--<ImageBrush ImageSource="/expressage;component/bodian1.jpg" Stretch="UniformToFill" />-->
+<ImageBrush ImageSource="/expressage;component/images/2531170_081927388803_21.jpg" Stretch="UniformToFill" />
+        </Grid.Background>
+        <!--TitlePanel 包含應用程式的名稱和頁面標題-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0">
+            <Grid Height="100" Name="grid2" Margin="10,10,0,0" Width="458" >
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBlock  Name="tbComNanme" FontSize="25"   TextWrapping="Wrap" Margin="0,0,69,0" />
+                <TextBlock Name="tbcomNum" Text=""  FontSize="25" Grid.Row="1"   />
+
+            </Grid>
+            <Grid Height="Auto" HorizontalAlignment="Center"  Margin="10,0,0,0" Name="grid1" VerticalAlignment="Top" Width="460">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1"></ColumnDefinition>
+                    <ColumnDefinition Width="459*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <!--<TextBlock HorizontalAlignment="Left" Name="tbComNanme"  Width="27" VerticalAlignment="Top" FontSize="28"  TextAlignment="Left" TextWrapping="Wrap" Grid.Column="0"/>
+                <TextBlock HorizontalAlignment="Left" Margin="35,0,0,0" Name="tbcomNum" Text="" VerticalAlignment="Top" FontSize="20"  Width="15"  TextWrapping="Wrap"  Grid.Column="0"/>-->
+                <StackPanel Opacity="1" Width="461" HorizontalAlignment="Left" Grid.ColumnSpan="2">
+                    <ListBox Height="590" Name="lbresult" Width="385">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel  Name="spresult" Margin="0,0,0,15" Width="385">
+                                    <Grid Height="12" Width="385">
+                                        <Grid.Background>
+                                            <!--<ImageBrush ImageSource="/expressage;component/Images/listbg03.png"></ImageBrush>-->
+                                           <!--<ImageBrush ImageSource="/expressage;component/Images/mu.png"></ImageBrush>-->
+                                        </Grid.Background>
+                                    </Grid>
+                                    <Grid Width="385">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition></RowDefinition>
+                                            <RowDefinition></RowDefinition>
+                                        </Grid.RowDefinitions>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition></ColumnDefinition>
+                                        </Grid.ColumnDefinitions>
+                                        <Grid.Background>
+                                            <!--<ImageBrush ImageSource="/expressage;component/Images/listbg04.png"></ImageBrush>-->
+                                            <ImageBrush ImageSource="/expressage;component/Images/mu.png"></ImageBrush>
+                                        </Grid.Background>
+                                        <TextBlock Margin="15,0"  Name="tbContext"  Text="{Binding Context}"  Grid.Row="0" Grid.Column="0" TextWrapping="Wrap" Loaded="tbContext_Loaded" Foreground="White"></TextBlock>
+                                        <TextBlock Margin="15,0" TextAlignment="Right"  Text="{Binding Time}" Grid.Row="1" Grid.Column="0" TextWrapping="Wrap" Foreground="White"></TextBlock>
+                                    </Grid>
+                                    <Grid Height="12" Width="385">
+                                        <Grid.Background>
+                                            <ImageBrush ImageSource="/expressage;component/Images/listbg021.jpg"></ImageBrush>
+                                        </Grid.Background>
+                                    </Grid>
+                                    <HyperlinkButton Margin="0,10" Content="接口提供快递100" Height="30" Name="gotosupply" Width="385" Visibility="Collapsed"  Click="gotosupply_Click" />
+                                    <!--<HyperlinkButton Margin="0,30" Content="技术支持感谢ifanr 元気弹数据由友商快递100提供" Height="30" Name="gotosupply1" Width="385" Visibility="Collapsed"  Click="gotosupply_Click_1" />-->
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </StackPanel>
+            </Grid>
+            
+        </StackPanel>
+    </Grid>
+
+    <!--顯示 ApplicationBar 使用方式的程式碼範例-->
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/Telephone.png" Text="电话查询" Click="call_Click"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/Message.png" Text="短信发送" Click="ApplicationBarIconButton_Click"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/Window Add.png" Text="设置tile" Click="tile_Click"/>
+           
+            
+            <!-- <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="功能表項目 1"/>
+                <shell:ApplicationBarMenuItem Text="功能表項目 2"/>
+            </shell:ApplicationBar.MenuItems>-->
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

@@ -1,0 +1,229 @@
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\ApplicationIcon.png
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Background.png
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\expressage.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\expressage.pdb
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\AppManifest.xaml
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hero\Desktop\123\expressage\expressage\obj\Debug\App.g.i.cs
+C:\Users\Hero\Desktop\123\expressage\expressage\obj\Debug\MainPage.g.i.cs
+C:\Users\Hero\Desktop\123\expressage\expressage\obj\Debug\ResultPage.g.i.cs
+C:\Users\Hero\Desktop\123\expressage\expressage\obj\Debug\expressage.g.resources
+C:\Users\Hero\Desktop\123\expressage\expressage\obj\Debug\expressage.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\obj\Debug\expressage.pdb
+C:\Users\Hero\Desktop\123\expressage\expressage\obj\Debug\XapCacheFile.xml
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\ApplicationIcon.png
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Background.png
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Images\appbar.feature.email.rest.png
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\expressage.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\expressage.pdb
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\AppManifest.xaml
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\expressage.xap
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Hero\Desktop\expressage\expressage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hero\Desktop\expressage\expressage\obj\Debug\App.g.i.cs
+C:\Users\Hero\Desktop\expressage\expressage\obj\Debug\MainPage.g.i.cs
+C:\Users\Hero\Desktop\expressage\expressage\obj\Debug\ResultPage.g.i.cs
+C:\Users\Hero\Desktop\expressage\expressage\obj\Debug\Views\weiboList.g.i.cs
+C:\Users\Hero\Desktop\expressage\expressage\obj\Debug\expressage.g.resources
+C:\Users\Hero\Desktop\expressage\expressage\obj\Debug\expressage.dll
+C:\Users\Hero\Desktop\expressage\expressage\obj\Debug\expressage.pdb
+C:\Users\Hero\Desktop\expressage\expressage\obj\Debug\XapCacheFile.xml
+C:\Users\Hero\Desktop\expressage\expressage\obj\Debug\sinaapi.g.i.cs
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Images\appbar.favs.addto.rest.png
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Red.jpg
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Blue.jpg
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Green.jpg
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\ApplicationIcon.png
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\Background.png
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\Images\appbar.favs.addto.rest.png
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\Images\appbar.feature.email.rest.png
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\Red.jpg
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\Blue.jpg
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\Green.jpg
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\expressage.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\expressage.pdb
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\AppManifest.xaml
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\expressage.xap
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\Microsoft.Advertising.Mobile.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\Microsoft.Phone.Controls.xml
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\obj\Debug\ResolveAssemblyReference.cache
+F:\文档\Windows Phone 代码示例\expressage\expressage\obj\Debug\App.g.i.cs
+F:\文档\Windows Phone 代码示例\expressage\expressage\obj\Debug\MainPage.g.i.cs
+F:\文档\Windows Phone 代码示例\expressage\expressage\obj\Debug\ResultPage.g.i.cs
+F:\文档\Windows Phone 代码示例\expressage\expressage\obj\Debug\sinaapi.g.i.cs
+F:\文档\Windows Phone 代码示例\expressage\expressage\obj\Debug\Views\weiboList.g.i.cs
+F:\文档\Windows Phone 代码示例\expressage\expressage\obj\Debug\expressage.g.resources
+F:\文档\Windows Phone 代码示例\expressage\expressage\obj\Debug\expressage.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\obj\Debug\expressage.pdb
+F:\文档\Windows Phone 代码示例\expressage\expressage\obj\Debug\XapCacheFile.xml
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\Coding4Fun.Phone.Controls.dll
+F:\文档\Windows Phone 代码示例\expressage\expressage\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Images\appbar.questionmark.rest.png
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Images\QQ截图20120407010142.png
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Images\appbar.feature.search.rest.png
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Images\Message.png
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Images\Telephone.png
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\Images\Window Add.png
+C:\Users\Hero\Desktop\expressage\expressage\Bin\Debug\weixin.png
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Images\appbar.feature.search.rest.png
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Images\appbar.questionmark.rest.png
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Images\Message.png
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Images\QQ截图20120407010142.png
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Images\Telephone.png
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Images\Window Add.png
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Images\appbar.favs.addto.rest.png
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Images\appbar.feature.email.rest.png
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\weixin.png
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Red.jpg
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Blue.jpg
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Green.jpg
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\Hero\Desktop\123\expressage\expressage\obj\Debug\sinaapi.g.i.cs
+C:\Users\Hero\Desktop\123\expressage\expressage\obj\Debug\Views\weiboList.g.i.cs
+C:\Users\Hero\Desktop\123\expressage\expressage\Bin\Debug\快递猿.xap
+H:\expressage\expressage\Bin\Debug\ApplicationIcon.png
+H:\expressage\expressage\Bin\Debug\Background.png
+H:\expressage\expressage\Bin\Debug\Images\appbar.feature.search.rest.png
+H:\expressage\expressage\Bin\Debug\Images\appbar.questionmark.rest.png
+H:\expressage\expressage\Bin\Debug\Images\Message.png
+H:\expressage\expressage\Bin\Debug\Images\QQ截图20120407010142.png
+H:\expressage\expressage\Bin\Debug\Images\Telephone.png
+H:\expressage\expressage\Bin\Debug\Images\Window Add.png
+H:\expressage\expressage\Bin\Debug\Images\appbar.favs.addto.rest.png
+H:\expressage\expressage\Bin\Debug\Images\appbar.feature.email.rest.png
+H:\expressage\expressage\Bin\Debug\weixin.png
+H:\expressage\expressage\Bin\Debug\Red.jpg
+H:\expressage\expressage\Bin\Debug\Blue.jpg
+H:\expressage\expressage\Bin\Debug\Green.jpg
+H:\expressage\expressage\Bin\Debug\expressage.dll
+H:\expressage\expressage\Bin\Debug\expressage.pdb
+H:\expressage\expressage\Bin\Debug\AppManifest.xaml
+H:\expressage\expressage\Bin\Debug\快递猿.xap
+H:\expressage\expressage\Bin\Debug\Coding4Fun.Phone.Controls.dll
+H:\expressage\expressage\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+H:\expressage\expressage\Bin\Debug\Microsoft.Advertising.Mobile.dll
+H:\expressage\expressage\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+H:\expressage\expressage\Bin\Debug\Microsoft.Phone.Controls.dll
+H:\expressage\expressage\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+H:\expressage\expressage\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+H:\expressage\expressage\Bin\Debug\Microsoft.Phone.Controls.xml
+H:\expressage\expressage\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+H:\expressage\expressage\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+H:\expressage\expressage\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+H:\expressage\expressage\obj\Debug\ResolveAssemblyReference.cache
+H:\expressage\expressage\obj\Debug\App.g.i.cs
+H:\expressage\expressage\obj\Debug\MainPage.g.i.cs
+H:\expressage\expressage\obj\Debug\ResultPage.g.i.cs
+H:\expressage\expressage\obj\Debug\sinaapi.g.i.cs
+H:\expressage\expressage\obj\Debug\Views\weiboList.g.i.cs
+H:\expressage\expressage\obj\Debug\expressage.g.resources
+H:\expressage\expressage\obj\Debug\expressage.dll
+H:\expressage\expressage\obj\Debug\expressage.pdb
+H:\expressage\expressage\obj\Debug\XapCacheFile.xml
